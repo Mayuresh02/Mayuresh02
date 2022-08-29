@@ -9,13 +9,13 @@
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Mayuresh02" alt="visitor badge"/> -->
 
 
-- 🔭 I’m currently working on **Web and Native Projects**
-- 🌱 I’m currently learning **MERN**
+- 🔭 I’m currently working on **Web and Android Projects**
+- 🌱 I’m currently learning **Express, NodeJS & MongoDB**
 - 📫 How to reach me **0911.mayuresh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCkW53yCXueI1CRxOLqcG6MA" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckw53ycxuei1crxolqcg6ma" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/mayuresh-hivarekar-4aa8b5192" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuresh-hivarekar-4aa8b5192" height="30" width="40" /></a>
 <a href="https://instagram.com/mayuresh.02" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayuresh.02" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Mayuresh02" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mayuresh02" height="30" width="40" /></a>
