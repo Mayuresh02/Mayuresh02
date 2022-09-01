@@ -1,4 +1,4 @@
-<h1 align="center">Welcome Amigos 👋</h1>
+<h1 align="center">Hello Amigos 👋</h1>
 
 ![MasterHead](https://user-images.githubusercontent.com/74352611/151704311-fa5649c9-6fac-4640-9b7e-54a3d760521a.gif)
 
