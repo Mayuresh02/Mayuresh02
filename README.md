@@ -11,7 +11,7 @@
 - 👨‍🎓 My all projects on **[Github](https://github.com/mayuresh02)**
 
 <p align="center">&nbsp;
-<img style="height:400px; width:500px;" align="center" alt="CodingImg" src="https://github.com/Mayuresh02/Mayuresh02/blob/main/GitHub%20GIF.gif"/>
+<img style="height:400px; width:500px;" align="center" alt="CodingImg" src="GitHub GIF.gif"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mayuresh02&label=Profile%20views&color=0e75b6&style=flat" alt="Mayuresh02" /> </p>
