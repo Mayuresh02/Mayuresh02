@@ -7,11 +7,11 @@
 - 🔭 I’m currently working on **Web and Android Projects**
 - 🌱 I’m currently learning **Express, NodeJS & MongoDB**
 - 📫 How to reach me **0911.mayuresh@gmail.com**
-- 😄 All information about me is here **[Portfolio](https://mayuresh02.github.io/PortfolioWebsite/)**
-- 👨‍🎓 My all projects are available on **[Github](https://github.com/mayuresh02)**
+- 😄 All information on my **[Portfolio](https://mayuresh02.github.io/PortfolioWebsite/)**
+- 👨‍🎓 My all projects on **[Github](https://github.com/mayuresh02)**
 
 <p align="center">&nbsp;
-<img style="height:400px; width:500px;" align="center" alt="CodingImg" src="https://user-images.githubusercontent.com/74352611/151704103-f9a7a4a6-4dd5-4076-9d4e-e2f90c8e4176.gif"/>
+<img style="height:400px; width:500px;" align="center" alt="CodingImg" src="https://github.com/Mayuresh02/Mayuresh02/blob/main/GitHub%20GIF.gif"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mayuresh02&label=Profile%20views&color=0e75b6&style=flat" alt="Mayuresh02" /> </p>
