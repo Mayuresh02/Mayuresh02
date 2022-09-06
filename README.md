@@ -5,7 +5,7 @@
 <h1 align="center">I'm Mayuresh Hivarekar</h1>
 
 - 🔭 I’m currently working on **Web and Android Projects**
-- 🌱 I’m currently learning **Express, NodeJS & MongoDB**
+- 🌱 I’m currently learning **MERN**
 - 📫 How to reach me **0911.mayuresh@gmail.com**
 - 😄 All information on my **[Portfolio](https://mayuresh02.github.io/PortfolioWebsite/)**
 - 👨‍🎓 My all projects on **[Github](https://github.com/mayuresh02)**
