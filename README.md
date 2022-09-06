@@ -17,7 +17,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mayuresh02&label=Profile%20views&color=0e75b6&style=flat" alt="Mayuresh02" /> </p>
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Mayuresh02" alt="visitor badge"/> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayuresh02&theme=algolia&margin-w=20" alt="Mayuresh02" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mayuresh02&theme=algolia&margin-w=20" alt="Mayuresh02" /></a> </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
